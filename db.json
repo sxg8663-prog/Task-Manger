@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "id": "ed17",
+      "email": "saiprakashreddykonapa@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "159f",
+      "email": "demo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "ea54",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "e5a5",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "19b9",
+      "email": "hi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a7de",
+      "email": "saiprakash@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "task": [
+    {
+      "title": "shower",
+      "content": "I need to take showerrrrrrrrr\n",
+      "userid": "159f",
+      "id": "3f44"
+    },
+    {
+      "id": "6f2d",
+      "title": "meeting",
+      "content": "meeting tommorow at 5.00pm"
+    },
+    {
+      "id": "b260",
+      "title": "complete this project",
+      "content": "must complete and post into github\n"
+    },
+    {
+      "id": "acf9",
+      "title": "create task",
+      "content": "task created",
+      "userid": "159f"
+    },
+    {
+      "id": "0383",
+      "title": "NEW TASK ",
+      "content": "NEW TASK CREATED \n",
+      "userid": "a7de"
+    }
+  ]
+}

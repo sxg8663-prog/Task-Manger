@@ -1,0 +1,86 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 400px;
+}
+
+.button1 {
+  width: 200px;
+  height: 50px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  color: black;
+  background-color: lightgreen;
+  margin-right: 20px;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  color: black;
+  background-color: lightgreen;
+  margin-right: 20px;
+  align-items: center;
+
+}
+
+.button a {
+  text-decoration: none;
+  color:black;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #f2af2a;
+  color: black;
+}
+
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  min-height: 100vh;
+}
+
+.card {
+  background: linear-gradient(135deg, #ffffff, #e6e6e6);
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card h3 {
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.card h4 {
+  font-size: 18px;
+  color: #666;
+  text-transform: capitalize;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(135deg, #f5f5f5, #dcdcdc);
+}
+
+
+.loading {
+  font-size: 20px;
+  color: black;
+}
